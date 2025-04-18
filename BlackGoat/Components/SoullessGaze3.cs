@@ -20,7 +20,7 @@ namespace BlackGoat.Components
                 .SetReapplyOnLevelUp()
                 .SetDisplayName(DisplayName)
                 .SetDescription(Description)
-                .SetIcon(AbilityRefs.Hypnotism.Reference.Get().Icon)
+                .SetIcon(AbilityRefs.EyesOfTheBodak.Reference.Get().Icon)
                 .AddFeatureTagsComponent(FeatureTag.Skills)
                 .AddBuffSkillBonus(
                 stat: StatType.CheckIntimidate, value: 2, descriptor: ModifierDescriptor.UntypedStackable)
