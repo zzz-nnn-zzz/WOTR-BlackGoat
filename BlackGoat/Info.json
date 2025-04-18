@@ -1,0 +1,12 @@
+﻿{
+  "Id": "BlackGoat",
+  "DisplayName": "Black Goat of the Woods with a Thousand Young",
+  "Author": "zzz_nnn_zzz",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [ "TabletopTweaks-Core" ],
+  "AssemblyName": "BlackGoat.dll",
+  "EntryMethod": "BlackGoat.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
