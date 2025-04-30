@@ -1,12 +1,13 @@
 ﻿{
   "Id": "BlackGoat",
   "DisplayName": "Black Goat of the Woods with a Thousand Young",
-  "Author": "",
-  "Version": "1.0.0",
+  "Author": "zzz_nnn_zzz",
+  "Version": "2.0.0",
   "ManagerVersion": "0.27.11",
-  "Requirements": [],
+  "Requirements": [ "TabletopTweaks-Core", "TabletopTweaks-Base"],
+  "LoadAfter": [ "TabletopTweaks-Core", "TabletopTweaks-Base"],
   "AssemblyName": "BlackGoat.dll",
   "EntryMethod": "BlackGoat.Main.Load",
-  "HomePage": "",
+  "HomePage": "https://github.com/zzz-nnn-zzz/WOTR-BlackGoat",
   "Repository": ""
 }

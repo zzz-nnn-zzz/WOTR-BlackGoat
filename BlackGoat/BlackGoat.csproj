@@ -5,7 +5,7 @@
 		<TargetFramework>net481</TargetFramework>
 		<AssemblyName>BlackGoat</AssemblyName>
 		<Description>Black Goat of the Woods with a Thousand Young</Description>
-		<Version>1.0.0</Version>
+		<Version>2.0.0</Version>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<LangVersion>latest</LangVersion>
 		<RootNamespace>BlackGoat</RootNamespace>
@@ -24,8 +24,26 @@
 		<Reference Include="$(WrathInstallDir)\Wrath_Data\Managed\UnityModManager\0Harmony.dll*" />
 	</ItemGroup>
 	<ItemGroup>
+	  <Reference Include="TabletopTweaks-Core">
+	    <HintPath>G:\SteamLibrary\steamapps\common\Pathfinder Second Adventure\Mods\TabletopTweaks-Core\TabletopTweaks-Core.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+	    <ItemGroup>
+	  <Reference Include="TabletopTweaks-Base">
+	    <HintPath>G:\SteamLibrary\steamapps\common\Pathfinder Second Adventure\Mods\TabletopTweaks-Base\TabletopTweaks-Base.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+	<ItemGroup>
+    <None Remove="Strings\Feats.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Strings\Feats.json" />
+  </ItemGroup>
+  
+	<ItemGroup>
 		<None Include="Info.json" CopyToOutputDirectory="PreserveNewest" />
-		<None Include="LocalizedStrings.json" CopyToOutputDirectory="PreserveNewest" />
 	</ItemGroup>
 	<Target Name="ILRepack" AfterTargets="Build">
 		<ItemGroup>

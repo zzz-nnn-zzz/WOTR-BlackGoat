@@ -8,6 +8,8 @@ using System.Reflection;
 using UnityModManagerNet;
 using BlueprintCore.Utils;
 using Kingmaker.Blueprints.JsonSystem;
+using BlackGoat.Feats;
+using BlackGoat.Classes.Hellknight;
 
 namespace BlackGoat;
 
@@ -54,9 +56,22 @@ public static class Main {
                 Initialized = true;
 
                 log.Log("Patching blueprints.");
+
+                LocalizationTool.LoadEmbeddedLocalizationPacks(
+                    "BlackGoat.Strings.Feats.json");
+
                 // Insert your mod's patching methods here
                 // Example
                 // SuperAwesomeFeat.Configure()
+                DamnationFeats.Configure();
+                DestroyIdentity.Configure();
+                RHCloudGiant.Configure();
+                StormSoul.Configure();
+
+                PentamicPatch.Configure();
+                HellknightObedience.Configure();
+                HellknightObsession.Configure();
+
             } catch (Exception e) {
                 log.Log(string.Concat("Failed to initialize.", e));
             }

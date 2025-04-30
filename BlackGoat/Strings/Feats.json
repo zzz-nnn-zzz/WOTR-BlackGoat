@@ -1,0 +1,408 @@
+[
+    {
+        "Key": "Damnation.Name",
+        "ProcessTemplates": false,
+        "enGB": "Damnation Feats"
+    },
+
+    {
+        "Key": "Damnation.Description",
+        "enGB": "Damnation feats represent a bargain the character has made with some dark power, granting the character great power at the cost of her eternal soul. Damnation feats are distinct from more common feats in three ways. \nDamned: A character with a damnation feat is damned (see the sidebar). This is likely a permanent condition, but might be avoided through redemption. \nGreater Power: Damnation feats increase in power relative to the number of damnation feats a character possesses. Each new damnation feat increases the power of all of the character’s damnation feats, including the newly taken feat and future feats. \nPatronage: All damnation feats require the patronage of an evil outsider—typically a daemon, devil, demon, or kyton. This evil outsider patron must be favorably disposed toward the character and must have a number of Hit Dice equal to or greater than her character level. An evil outsider summoned via a spell like planar binding might be coerced to serve as a character’s patron (whether that character is the spell’s caster or another seeking patronage). The caster of a planar binding spell must still attempt Charisma checks to coerce the outsider into service, but she gains a +4 bonus on her Charisma checks if that service is to act as a damnation feat’s patron. Other outsiders might more willingly serve as patrons at the GM’s discretion."
+    },
+
+    {
+        "Key": "SoullessGaze.Name",
+        "ProcessTemplates": false,
+        "enGB": "Soulless Gaze"
+    },
+
+    {
+        "Key": "SoullessGaze.Description",
+        "enGB": "Otherworldly dread infuses your gaze. \nBenefit: You can use the Intimidate skill to manipulate and terrify others."
+    },
+
+    {
+        "Key": "SoullessGaze1.Name",
+        "ProcessTemplates": false,
+        "enGB": "Soulless Gaze: One Damnation Feat"
+    },
+
+    {
+        "Key": "SoullessGaze1.Description",
+        "enGB": "You gain a +2 bonus on Intimidate checks."
+    },
+
+    {
+        "Key": "SoullessGaze2.Name",
+        "ProcessTemplates": false,
+        "enGB": "Soulless Gaze: Two Damnation Feats"
+    },
+
+    {
+        "Key": "SoullessGaze2.Description",
+        "enGB": "When you demoralize a creatures more than once using Intimidate, you can create stronger fear conditions rather than increasing the duration of the shaken condition."
+    },
+
+    {
+        "Key": "SoullessGaze3.Name",
+        "ProcessTemplates": false,
+        "enGB": "Soulless Gaze: Three Damnation Feats"
+    },
+
+    {
+        "Key": "SoullessGaze3.Description",
+        "enGB": "You gain a +2 bonus on Intimidate checks (this stacks with the earlier benefits of this feat)."
+    },
+
+    {
+        "Key": "MaskofVirtue.Name",
+        "ProcessTemplates": false,
+        "enGB": "Mask of Virtue"
+    },
+
+    {
+        "Key": "MaskofVirtue.Description",
+        "enGB": "Your alignment is known to you and you alone. \nBenefit: Those who try to learn your true alignment find it hidden or receive a false result. Depending on the number of damnation feats you possess, spells or special abilities that would normally reveal your alignment return a vague or incorrect result. If this feat disguises your alignment, you can use either your true alignment or the false one when using magic items with alignment prerequisites."
+    },
+
+    {
+        "Key": "MaskofVirtue1.Name",
+        "ProcessTemplates": false,
+        "enGB": "Mask of Virtue: One Damnation Feat"
+    },
+
+    {
+        "Key": "MaskofVirtue1.Description",
+        "enGB": "The spell or special ability returns an inconclusive result."
+    },
+    //mov
+    {
+        "Key": "Fiendskin.Name",
+        "ProcessTemplates": false,
+        "enGB": "Fiendskin"
+    },
+
+    {
+        "Key": "Fiendskin.Description",
+        "enGB": "The forces of darkness gird you against the light. \nBenefit: You gain defensive abilities related to your patron’s outsider subtype. For example, if your patron is a devil, the abilities listed below tie into the devil subtype (see Creature Subtypes, starting on page 310 of the Pathfinder RPG Bestiary). These benefits tie to your patron’s subtype, not your specific patron (its abilities might differ from the norm)."
+    },
+
+    {
+        "Key": "Fiendskin1.Name",
+        "ProcessTemplates": false,
+        "enGB": "Fiendskin: One Damnation Feat"
+    },
+
+    {
+        "Key": "Fiendskin1.Description",
+        "enGB": "Choose one of the energy types to which your patron’s outsider subtype grants resistance. You gain resistance 5 against that energy type."
+    },
+
+    {
+        "Key": "Fiendskin2.Name",
+        "ProcessTemplates": false,
+        "enGB": "Fiendskin: Two Damnation Feats"
+    },
+
+    {
+        "Key": "Fiendskin2.Description",
+        "enGB": "Choose one of the energy types to which your patron’s outsider subtype grants resistance. You gain resistance 5 against that energy type. If you already have resistance to the chosen energy type (even from earlier benefits of this feat), this new resistance stacks with the existing resistance."
+    },
+    {
+        "Key": "Fiendskin3.Name",
+        "ProcessTemplates": false,
+        "enGB": "Fiendskin: Three Damnation Feats"
+    },
+
+    {
+        "Key": "Fiendskin3.Description",
+        "enGB": "Choose one of the energy types to which your patron’s outsider subtype grants resistance. You gain immunity to the selected energy type."
+    },
+
+    {
+        "Key": "Fiendskin4.Name",
+        "ProcessTemplates": false,
+        "enGB": "Fiendskin: Four Damnation Feats"
+    },
+
+    {
+        "Key": "Fiendskin4.Description",
+        "enGB": "Your creature type changes to outsider (native). Additionally, choose one energy type to which your patron’s outsider subtype grants immunity or resistance. You gain immunity to that energy type."
+    },
+
+    {
+        "Key": "Maleficium.Name",
+        "ProcessTemplates": false,
+        "enGB": "Maleficium"
+    },
+
+    {
+        "Key": "Maleficium.Description",
+        "enGB": "You are a master of dark magic. \nBenefit: You cast spells with the evil descriptor with increased potency."
+    },
+
+    {
+        "Key": "Maleficium1.Name",
+        "ProcessTemplates": false,
+        "enGB": "Maleficium: One Damnation Feat"
+    },
+
+    {
+        "Key": "Maleficium1.Description",
+        "enGB": "Add 1 to the DCs of all saving throws against spells with the evil descriptor that you cast."
+    },
+
+    {
+        "Key": "Maleficium2.Name",
+        "ProcessTemplates": false,
+        "enGB": "Maleficium: Two Damnation Feats"
+    },
+
+    {
+        "Key": "Maleficium2.Description",
+        "enGB": "When you apply a metamagic feat to a spell with the evil descriptor, that spell takes up a spell slot 1 level lower than normal (to a minimum of 1 level above the spell’s actual level)."
+    },
+
+    {
+        "Key": "Maleficium3.Name",
+        "ProcessTemplates": false,
+        "enGB": "Maleficium: Three Damnation Feats"
+    },
+
+    {
+        "Key": "Maleficium3.Description",
+        "enGB": "Add 1 to the DCs of all saving throws against spells with the evil descriptor that you cast. This bonus stacks with the earlier benefits of this feat."
+    },
+
+    {
+        "Key": "Maleficium4.Name",
+        "ProcessTemplates": false,
+        "enGB": "Maleficium: Four Damnation Feats"
+    },
+
+    {
+        "Key": "Maleficium4.Description",
+        "enGB": "Treat your caster level as being 2 higher for all level-dependent effects of spells with the evil descriptor that you cast."
+    },
+
+    {
+        "Key": "RHCloudGiant.Name",
+        "ProcessTemplates": false,
+        "enGB": "Racial Heritage: Cloud Giant"
+    },
+
+    {
+        "Key": "RHCloudGiant.Description",
+        "enGB": "The blood of a non-human ancestor flows in your veins."
+    },
+
+    {
+        "Key": "StormSoul.Name",
+        "ProcessTemplates": false,
+        "enGB": "Storm Soul"
+    },
+
+    {
+        "Key": "StormSoul.Description",
+        "enGB": "Your attunement to storms grants you immunity to some of their effects. \nBenefit: You gain immunity to electricity."
+    },
+
+    {
+        "Key": "DestroyIdentity.Name",
+        "ProcessTemplates": false,
+        "enGB": "Destroy Identity"
+    },
+
+    {
+        "Key": "DestroyIdentity.Description",
+        "enGB": "You can use your weapons to mar your opponents’ most distinctive characteristics. \nWhenever you confirm a critical hit against an opponent, in addition to dealing critical damage as normal, you maim your target so much that it takes 2 points of Charisma damage and becomes staggered for 1 round."
+    },
+
+    {
+        "Key": "HellknightObsession.Name",
+        "ProcessTemplates": false,
+        "enGB": "Hellknight Obsession"
+    },
+
+    {
+        "Key": "HellknightObsession.Description",
+        "enGB": "You equate pain with discipline and can inflict damage upon yourself to unlock greater power. \nBenefit(s): During your hour-long reckoning, if you choose to deal lethal damage to yourself, you reach a state of fantastic focus. Once during the next 24 hours, you can draw upon this focus to gain the benefits of any one of the following effects. To activate the ability, you must deal 1 point of lethal damage to yourself as a swift action (unless otherwise noted). Members of the Order of the Nail often install a sharp barb within their armor that deals this damage when the wearer is subject to a critical hit; if you’re struck by a critical hit while wearing such armor, using this ability doesn’t require a swift action. "
+    },
+
+    {
+        "Key": "HellknightObsessionAbility3.Name",
+        "ProcessTemplates": false,
+        "enGB": "Menacing"
+    },
+
+    {
+        "Key": "HellknightObsessionAbility3.Description",
+        "enGB": "You gain a +3 bonus on Intimidate and Sense Motive skill checks for 1 hour."
+    },
+
+    {
+        "Key": "HellknightObsessionAbility4.Name",
+        "ProcessTemplates": false,
+        "enGB": "Mercilessness"
+    },
+
+    {
+        "Key": "HellknightObsessionAbility4.Description",
+        "enGB": "The critical threat range of your order’s favored weapon doubles for 1 hour (even if it is not a piercing or slashing weapon). This does not stack with any other effects that increase a weapon’s critical threat range."
+    },
+
+    {
+        "Key": "HellknightObedience.Name",
+        "ProcessTemplates": false,
+        "enGB": "Hellknight Obedience"
+    },
+
+    {
+        "Key": "HellknightObedience.Description",
+        "enGB": "Performing daily Hellknight reckonings grants you special boons.  Upon taking this feat, you gain proficiency in all of your Hellknight order’s favored weapons. Additionally, by meditating and inflicting strenuous reckonings upon yourself, you unlock the power behind your order’s doctrine. Each Hellknight order has its own unique reckoning—a trial of obedience and pain (described in general on page 9 and in the Reckoning entries of the Hellknight order stat blocks throughout this book). When coupled with the necessary reflection and meditation, this reckoning takes 1 hour per day to perform. Once you have performed your order’s reckoning, you gain the benefit of a special ability as indicated in the Reckoning entry for the Hellknight order to which you’ve sworn allegiance. If you have at least 12 Hit Dice, you also gain the first boon granted by the Hellknight order. If you have at least 16 Hit Dice, you also gain the Hellknight order’s second boon. If you have 20 Hit Dice or more, you also gain the Hellknight order’s third boon. Unless a specific duration or number of uses per day is listed in a boon’s description, the boon’s effects are constant."
+    },
+
+    {
+        "Key": "PyreObedience.Name",
+        "ProcessTemplates": false,
+        "enGB": "Order of the Pyre Obedience"
+    },
+
+    {
+        "Key": "PyreObedience.Description",
+        "enGB": "Burn yourself over an open flame. Once per day as an immediate action, you can gain fire resistance 10 for 10 minutes. This does not stack with resist energy or any other abilities that provide fire resistance and overlaps with protection from energy."
+    },
+
+    {
+        "Key": "PyreObedienceAbility.Name",
+        "ProcessTemplates": false,
+        "enGB": "Reckoning"
+    },
+
+    {
+        "Key": "PyreObedienceAbility.Description",
+        "enGB": "Burn yourself over an open flame. Once per day as an immediate action, you can gain fire resistance 10 for 10 minutes. This does not stack with resist energy or any other abilities that provide fire resistance and overlaps with protection from energy."
+    },
+
+    {
+        "Key": "PyreBoons1.Name",
+        "ProcessTemplates": false,
+        "enGB": "Favoured Cult"
+    },
+
+    {
+        "Key": "PyreBoons1.Description",
+        "enGB": "You can hone your skills to become a bane to those who worship a divinity you hate. Each day while performing your obedience, choose a divine power that grants four or fewer domains. You gain +2 bonus on Intimidate, Knowledge, Sense Motive, and Survival checks against those who worship that power. Additionally, you get a +1 bonus on weapon attack rolls and weapon damage rolls against the worshipers of that deity."
+    },
+
+    {
+        "Key": "PyreBoons2.Name",
+        "ProcessTemplates": false,
+        "enGB": "Immolation"
+    },
+
+    {
+        "Key": "PyreBoons2.Description",
+        "enGB": "You can channel your wrath into power that can scorch your foes. Once per day, you can cast delayed blast fireball using your character level as your caster level."
+    },
+
+    {
+        "Key": "PyreBoons3.Name",
+        "ProcessTemplates": false,
+        "enGB": "Quell Zealotry"
+    },
+
+    {
+        "Key": "PyreBoons3.Description",
+        "enGB": "You can tear the divine power from the grasp of those who would use it to stand against you. Once per day as a standard action, you can target a divine spellcaster within 100 feet. If your target fails a Will saving throw (DC = 10 + 1/2 your Hit Dice + your Charisma bonus), it loses access to any spellcasting and all the supernatural and spell-like abilities it gains from any of its divine spellcasting classes for a number of rounds equal to half your character level. When a creature under the effects of this ability tries to use an ability to which it no longer has access, instead of its god’s favor, it feels only a profound, black emptiness, as if its deity no longer existed."
+    },
+
+    {
+        "Key": "NailObedience.Name",
+        "ProcessTemplates": false,
+        "enGB": "Order of the Nail Obedience"
+    },
+
+    {
+        "Key": "NailObedience.Description",
+        "enGB": "Pierce your flesh with sharp metal. Gain a +4 bonus on Knowledge (geography) checks. Additionally, if you are trained in Knowledge (geography), you automatically succeed at attempts to use that skill to identify a creature’s ethnicity or accent, as long as you are familiar with that ethnicity or accent."
+    },
+
+    {
+        "Key": "NailBoons1.Name",
+        "ProcessTemplates": false,
+        "enGB": "Domination"
+    },
+
+    {
+        "Key": "NailBoons1.Description",
+        "enGB": "Select a creature type from the ranger favored enemies table. You treat that creature type as your favored enemy, as per the ranger ability. If you choose humanoid (human), you can select one of the following ethnicities Kellid, Mwangi, Shoanti, or Ulfen (or another clannish or tribal ethnicity, at the GM’s discretion). If you choose an ethnicity, the bonuses on skill checks, weapon attack, and weapon damage rolls increase to +4, but you do not gain any bonuses against other humans. These bonuses stack with any favored enemy bonuses gained from other classes."
+    },
+
+    {
+        "Key": "NailBoons2.Name",
+        "ProcessTemplates": false,
+        "enGB": "Identification"
+    },
+
+    {
+        "Key": "NailBoons2.Description",
+        "enGB": "Three times per day as a swift action, you can choose a living creature within sight and know its creature type, ethnicity (if any), and alignment. Additionally, for a number of hours equal to your character level, that creature is treated as though you had cast the spell status upon it. Though unaware of your probing, the target can attempt a Will saving throw to negate this ability (DC = 10 + 1/2 your Hit Dice + your Charisma modifier). Spells such as undetectable alignment may prevent a portion of this information from being gleaned, while spells such as nondetection stymie this effect entirely. This is a divination effect."
+    },
+
+    {
+        "Key": "NailBoons3.Name",
+        "ProcessTemplates": false,
+        "enGB": "End Superstition"
+    },
+
+    {
+        "Key": "NailBoons3.Description",
+        "enGB": "Once per day, you can cast mage’s disjunction, using your character level as your caster level."
+    },
+
+    {
+        "Key": "GodclawObedience.Name",
+        "ProcessTemplates": false,
+        "enGB": "Order of the Godclaw Obedience"
+    },
+
+    {
+        "Key": "GodclawObedience.Description",
+        "enGB": "Flagellate yourself with a five-tailed lash. Whenever you are the target of a lawful divine caster’s spell that heals hit point damage, you heal 1 additional point per die rolled. Additionally, if you cast divine spells, you can use the holy symbols of Abadar, Asmodeus, Iomedae, Irori, and Torag interchangeably."
+    },
+
+    {
+        "Key": "GodclawBoons1.Name",
+        "ProcessTemplates": false,
+        "enGB": "Pentamic Zeal"
+    },
+
+    {
+        "Key": "GodclawBoons1.Description",
+        "enGB": "You can cast bane, bless, tireless pursuit, or wrath as a spell-like ability three times per day, with your effective CL equal to your character level."
+    },
+
+    {
+        "Key": "GodclawBoons2.Name",
+        "ProcessTemplates": false,
+        "enGB": "Tireless Judgment"
+    },
+
+    {
+        "Key": "GodclawBoons2.Description",
+        "enGB": "Three times per day as a swift action, you can gain a +3 sacred bonus on attack rolls, and a +6 sacred bonus to confirm critical hits. At 20th level, you can use this ability four times per day, and the bonuses increase to +4 and +8. Otherwise, this functions as the inquisitor’s justice judgment. If you already have access to judgments, you can use the justice judgment three times per day (four times at 20th level) without it counting toward your daily uses, or you can add the justice judgment’s effects to another judgment without it counting as a second or third judgment."
+    },
+
+    {
+        "Key": "GodclawBoons3.Name",
+        "ProcessTemplates": false,
+        "enGB": "Blessing of the Five"
+    },
+
+    {
+        "Key": "GodclawBoons3.Description",
+        "enGB": "Once per day as a standard action, you can brandish a holy symbol to heal all living creatures in a 30-foot-radius burst centered on you. Creatures in the area heal 10d6 points of damage. You can choose up to three creatures in the area that are not healed. Additionally, if a creature in the area has died within 1 round and this brings its hit point total to a negative amount less than its Constitution score, the creature returns to life and stabilizes. This ability can only revive one creature per use, and a revived creature gains a temporary negative level that lasts for 1 day. This ability cannot be modified using any feats or other abilities that affect channeled energy."
+    }
+
+]
